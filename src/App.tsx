@@ -120,7 +120,7 @@ function App() {
   </div>
 
   <div className="hero-burger">
-  <img src="/src/bun-blaze-logo.png" alt="Bun & Blaze logo" />
+  <img src="/src/" alt="Bun & Blaze logo" />
 </div>
 </section>
 
