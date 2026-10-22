@@ -64,7 +64,7 @@ function App() {
       {/* Header */}
       <header className="header">
         <div className="logo">
-  <img src="/src/bun-blaze-logo.png" alt="Bun & Blaze logo" />
+  <img src="/bun-blaze-logo.png" alt="Bun & Blaze logo" />
   <span>Bun & Blaze</span>
 </div>
 
